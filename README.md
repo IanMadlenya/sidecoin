@@ -1,8 +1,8 @@
 ## Sidecoin
 
-[![Build Status](https://travis-ci.org/tinybike/sidecoin.svg?branch=master)](https://travis-ci.org/tinybike/sidecoin)
+[![Build Status](https://travis-ci.org/AugurProject/sidecoin.svg?branch=master)](https://travis-ci.org/AugurProject/sidecoin)
 
-![Bitcoin sidecar](https://raw.githubusercontent.com/tinybike/sidecoin/master/src/qt/res/images/splash.png)
+![Bitcoin sidecar](https://raw.githubusercontent.com/AugurProject/sidecoin/master/src/qt/res/images/splash.png)
 
 The sidecar to Bitcoin's motorcycle.
 
